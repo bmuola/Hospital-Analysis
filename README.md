@@ -145,4 +145,5 @@ WHERE measure = 'blood_pressure';
 <br>
 This case study turned out to be a bit more challenging than I expected but I got to learn new ways and tricks to analyze data like I didn't know there was an easier way to get the median.<br>
 I was busy forming temp tables trying to find a way to get it when there was an easier way to do it.<br>
-Plus finally😂, a whole query where I don't use the ``WITH`` clause
+Plus finally, a whole query where I don't use the ``WITH`` clause
+Have a great day!
